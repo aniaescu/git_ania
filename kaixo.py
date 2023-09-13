@@ -1,1 +1,1 @@
-print('Kaixo IoT industrial')
+print(' Kaixo IoT industrial')
